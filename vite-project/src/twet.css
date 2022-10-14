@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    
+    height: 80px;
+    margin: auto;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.709);
+
+}
+#titulo{
+    display: flex;
+    padding-top: 15px;
+    padding-left: 15px;
+}
