@@ -1,7 +1,8 @@
 #container{
     display: flex;
-    
-    height: 80px;
+    justify-content: end;
+    height: 50px;
+    width: auto;
     margin: auto;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.709);
@@ -9,6 +10,19 @@
 }
 #titulo{
     display: flex;
-    padding-top: 15px;
+    padding-top: 7px;
     padding-left: 15px;
+    margin-right: 150px;
+    justify-content: start;
+}
+#nav{
+    display: flex;
+    background-color: blue;
+    height: 50px;
+    width: 80px;
+    text-align: center;
+    justify-content: center;
+}
+a{
+    margin: auto;
 }
