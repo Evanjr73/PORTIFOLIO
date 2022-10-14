@@ -1,7 +1,13 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
 #container{
     display: flex;
-    justify-content: end;
-    height: 50px;
+    justify-content: space-between;
+    height: auto;
     width: auto;
     margin: auto;
     padding: 0;
@@ -12,17 +18,37 @@
     display: flex;
     padding-top: 7px;
     padding-left: 15px;
-    margin-right: 150px;
-    justify-content: start;
+    
+    font-size: 20px;
+    width: 150px;
 }
-#nav{
+.nav{
     display: flex;
     background-color: blue;
     height: 50px;
-    width: 80px;
+    width: 100px;
     text-align: center;
     justify-content: center;
+    margin: 5px 5px;
+    border-radius: 7px;
 }
+.nav:hover{
+    display: flex;
+    background-color: blue;
+    height: 60px;
+    width: 110px;
+    text-align: center;
+    justify-content: center;
+    margin: 0 5px;
+    border-radius: 7px;
+    transition: 0.2s;
+}
+
 a{
     margin: auto;
+}
+#container2{
+    display: flex;
+    
+    
 }

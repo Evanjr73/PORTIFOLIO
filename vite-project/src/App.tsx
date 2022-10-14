@@ -1,5 +1,6 @@
 import './App.css'
 import { Twet } from './twet'
+import {Texto} from './texto'
 
 
 function App() {
@@ -8,6 +9,8 @@ function App() {
   return (
     <div>
       <Twet/>
+      <Texto/>
+      
     </div>
   )
 }
