@@ -9,22 +9,22 @@
     justify-content: space-between;
     height: auto;
     width: auto;
-    margin: auto;
+    margin: 0 0 10px 0 ;
     padding: 0;
-    background-color: rgba(0, 0, 0, 0.709);
-
+    background-color: rgba(0, 0, 0, 0.365);
+    
 }
 #titulo{
     display: flex;
     padding-top: 7px;
-    padding-left: 15px;
+    padding-left: 10px;
     
     font-size: 20px;
-    width: 150px;
+    width: 100px;
 }
 .nav{
     display: flex;
-    background-color: blue;
+    background-color: rgba(8, 8, 10, 0.184);
     height: 50px;
     width: 100px;
     text-align: center;
@@ -34,7 +34,7 @@
 }
 .nav:hover{
     display: flex;
-    background-color: blue;
+    background-color: rgba(0, 0, 0, 0.303);
     height: 60px;
     width: 110px;
     text-align: center;
@@ -46,6 +46,8 @@
 
 a{
     margin: auto;
+    text-decoration: none;
+    color: black;
 }
 #container2{
     display: flex;

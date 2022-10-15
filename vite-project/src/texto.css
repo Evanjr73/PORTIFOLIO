@@ -5,7 +5,15 @@
 }
 
 #divtext{
-   text-align: center;
+    
+    margin: auto;
+    text-align: center;
+    height: auto;
+    width: 450px;
+    background-color: rgb(126, 124, 124);
+    color: rgb(0, 0, 0);
+    box-shadow: 10px 10px rgba(31, 28, 28, 0.118);
+    border-radius: 10px;
 
 }
 img{
