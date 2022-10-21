@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-
+    
 }
 
 #projetosh1{
@@ -9,13 +9,20 @@
     
     
 }
-
+#containerProjetos{
+    margin-top: 25px;
+    display: flex;
+}
 #containerProjetos1{
-    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    justify-items: center;
     margin-top: 100px;
     height: auto;
     width: auto;
-   background-color: blue;
+    background-color: blue;
+    margin: auto;
 } 
 .projetos{
     width: 250px;
@@ -24,7 +31,9 @@
     border-radius: 5px;
 }
 .divprojetos{
+    display: flex;
     background-color: aqua;
     height: 250px;
-    w
+    width: 410px;
+    margin-top: 15px;
 }
