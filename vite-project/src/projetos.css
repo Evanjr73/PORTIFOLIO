@@ -21,7 +21,7 @@
     margin-top: 100px;
     height: auto;
     width: auto;
-    background-color: blue;
+    
     margin: auto;
 } 
 .projetos{
@@ -32,8 +32,11 @@
 }
 .divprojetos{
     display: flex;
-    background-color: aqua;
-    height: 250px;
-    width: 410px;
+    text-align: center;
+    padding: 10px 6px 3px 3px;
+    background-color: rgb(99, 101, 101);
+    height: 210px;
+    width: 420px;
     margin-top: 15px;
+    border-radius: 10px;
 }
