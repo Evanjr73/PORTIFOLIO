@@ -4,6 +4,12 @@ import img1 from './img/casas.png'
 import img2 from './img/summer1.png'
 import img3 from './img/summer2.png'
 import img4 from './img/disney.png'
+
+import img6 from './img/relogio.png'
+
+
+
+
 export function Projetos(){
    return(
     <div id='containerProjetos'>
@@ -35,6 +41,12 @@ export function Projetos(){
                 <img src={img4} alt="" className='projetos'/>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis omnis quidem cupiditate autem ullam voluptatem nesciunt fuga debitis quod nobis explicabo necessitatibus soluta fugiat sit veritatis, sunt, earum atque porro.</p>
             </div>
+            <div  className='divprojetos'>
+                <img src={img6} alt="" className='projetos'/>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis omnis quidem cupiditate autem ullam voluptatem nesciunt fuga debitis quod nobis explicabo necessitatibus soluta fugiat sit veritatis, sunt, earum atque porro.</p>
+            </div>
+            
+            
         </div>
     </div>
    )
