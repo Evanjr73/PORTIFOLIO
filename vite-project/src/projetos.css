@@ -4,10 +4,21 @@
 
 }
 
+#projetosh1{
+    margin: auto;
+    
+    
+}
 
-#containerprojetos1{
-    height: 2500px;
+#containerProjetos1{
+    text-align: center;
+    margin-top: 100px;
+    height: auto;
     width: auto;
-    border-color: blue;
+   background-color: blue;
 } 
-   
+.projetos{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
