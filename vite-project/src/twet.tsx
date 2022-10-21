@@ -12,11 +12,11 @@ export function Twet(){
                         
                     </div>
                     <div className='nav'>
-                        <a href=""> GITHUB</a>
+                        <a href="https://github.com/Evanjr73"> GITHUB</a>
                         
                     </div>
                     <div className='nav'>
-                        <a href="">INSTAGRAM</a>
+                        <a href="https://www.instagram.com/evan_junior73/">INSTAGRAM</a>
                         
                     </div>
                 
