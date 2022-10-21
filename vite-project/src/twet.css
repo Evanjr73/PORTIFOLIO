@@ -34,7 +34,7 @@
 }
 .nav:hover{
     display: flex;
-    background-color: rgba(0, 0, 0, 0.303);
+    background-color: rgba(3, 6, 188, 0.303);
     height: 60px;
     width: 110px;
     text-align: center;

@@ -1,15 +1,15 @@
 *{
     margin: 0;
     padding: 0;
-
+    
 }
 
 #divtext{
     
     margin: auto;
     text-align: center;
-    height: auto;
-    width: 450px;
+    height: 400px;
+    width: 400px;
     background-color: rgb(126, 124, 124);
     color: rgb(0, 0, 0);
     box-shadow: 10px 10px rgba(31, 28, 28, 0.118);
@@ -17,6 +17,8 @@
 
 }
 img{
-    width: 200px;
+    width: 120px;
 }
-
+p{
+    font-size: 14px;
+}
