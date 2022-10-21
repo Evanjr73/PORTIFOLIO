@@ -1,7 +1,7 @@
 import './App.css'
 import { Twet } from './twet'
 import {Texto} from './texto'
-
+import {Projetos} from './projetos'
 
 function App() {
   
@@ -10,7 +10,7 @@ function App() {
     <div>
       <Twet/>
       <Texto/>
-      
+      <Projetos/>
     </div>
   )
 }
