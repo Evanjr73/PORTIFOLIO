@@ -39,4 +39,5 @@
     width: 420px;
     margin-top: 15px;
     border-radius: 10px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.244);
 }

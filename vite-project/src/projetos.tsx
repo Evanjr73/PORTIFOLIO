@@ -6,6 +6,7 @@ import img3 from './img/summer2.png'
 import img4 from './img/disney.png'
 import img5 from './img/calculadora.png'
 import img6 from './img/relogio.png'
+import img7 from './img/pokemon.png'
 
 
 
@@ -49,6 +50,11 @@ export function Projetos(){
                 <img src={img6} alt="" className='projetos'/>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis omnis quidem cupiditate autem ullam voluptatem nesciunt fuga debitis quod nobis explicabo necessitatibus soluta fugiat sit veritatis, sunt, earum atque porro.</p>
             </div>
+            <div  className='divprojetos'>
+                <img src={img7} alt="" className='projetos'/>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis omnis quidem cupiditate autem ullam voluptatem nesciunt fuga debitis quod nobis explicabo necessitatibus soluta fugiat sit veritatis, sunt, earum atque porro.</p>
+            </div>
+            
             
             
             
