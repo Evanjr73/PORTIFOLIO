@@ -3,3 +3,10 @@
     padding: 0;
     
 }
+#app{
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to left, blue, orange, red);
+    background-size: 500% 100%;
+    animation: degrade-animeado 5s infinite alternate-reverse;
+}

@@ -7,7 +7,7 @@ function App() {
   
 
   return (
-    <div>
+    <div id='app'>
       <Twet/>
       <Texto/>
       <Projetos/>
