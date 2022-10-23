@@ -10,13 +10,13 @@
     text-align: center;
     /* height: 500px; */
     height: 350px;
-    width: 90%;
+    width: 97%;
     background-color: rgb(126, 124, 124);
     color: rgb(0, 0, 0);
     box-shadow: 10px 10px rgba(15, 21, 182, 0.118);
     border-radius: 10px;
-    justify-content: center;
     align-items: flex-start;
+    
 
 }
 #divtext2{
@@ -35,5 +35,13 @@ p{
 #texto{
 
     width: 250px;
-    margin: auto;
+    margin: 50px  5%  30px  40px ;
+}
+#divtext3{
+    display: flex;
+    height: 350px;
+    width: 550px;
+    margin-left: 10%;
+    
+    
 }
