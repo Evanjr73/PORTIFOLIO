@@ -11,13 +11,13 @@
 }
 #containerProjetos{
     margin-top: 25px;
-    display: flex;
+    display: block;
 }
 #containerProjetos1{
-    display: flex;
+    
     justify-content: space-around;
-    flex-direction: column;
-    justify-items: center;
+    /* flex-direction: column;
+    justify-items: center; */
     margin-top: 100px;
     height: auto;
     width: auto;
@@ -40,4 +40,14 @@
     margin-top: 15px;
     border-radius: 10px;
     box-shadow: 7px 7px rgba(0, 0, 0, 0.112);
+    border: solid;
+}
+
+#projetostext{
+    height: 100px ;
+    width: auto;
+    display: flex;
+    font-size: 200%;
+    background-color: black;
+    color: white;
 }

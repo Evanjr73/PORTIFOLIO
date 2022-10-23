@@ -15,9 +15,13 @@ export function Projetos(){
    return(
     <div id='containerProjetos'>
        
+
+        <div id='projetostext'>
+            <h1 id='projetosh1'>projetos</h1>
+        </div>
         <div id='containerProjetos1'>
 
-            <h1 id='projetosh1'>projetos</h1>
+            
             
             <div className='divprojetos'>
                 <img src={img} alt="" className='projetos'/> 
