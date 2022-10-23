@@ -9,39 +9,44 @@
     margin: auto;
     text-align: center;
     /* height: 500px; */
-    height: 350px;
+    height: 450px;
     width: 97%;
     background-color: rgb(126, 124, 124);
     color: rgb(0, 0, 0);
-    box-shadow: 10px 10px rgba(15, 21, 182, 0.118);
+    box-shadow: 15px 15px 7px rgba(0, 0, 0, 0.222);
     border-radius: 10px;
     align-items: flex-start;
+    
     
 
 }
 #divtext2{
     margin: auto;
     display: block;
-    background-color: rgba(0, 0, 255, 0.849);
+    
+    height:320px ;
+    width: 220px;
 }
 img{
-    height:220px ;
+    height:250px ;
     width: 220px;
-    border-radius: 3px;
+    border-radius: 15px;
+    box-shadow: 15px 10px 7px  rgba(0, 0, 0, 0.249);
 }
 p{
     font-size: 14px;
 }
 #texto{
-
+    box-shadow: 15px 10px 7px  rgba(0, 0, 0, 0.249);
     width: 250px;
     margin: 50px  5%  30px  40px ;
 }
 #divtext3{
     display: flex;
     height: 350px;
-    width: 550px;
+    width: 650px;
     margin-left: 10%;
+    margin-top: 20px;
     
     
 }
