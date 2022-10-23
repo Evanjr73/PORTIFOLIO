@@ -5,19 +5,25 @@
 }
 
 #divtext{
-    
+    display: flex;
     margin: auto;
     text-align: center;
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 70vh;
     background-color: rgb(126, 124, 124);
     color: rgb(0, 0, 0);
     box-shadow: 10px 10px rgba(15, 21, 182, 0.118);
     border-radius: 10px;
 
 }
+#divtext2{
+    margin-top: 10px;
+    display: block;
+}
 img{
-    width: 120px;
+    height:220px ;
+    width: 220px;
+    border-radius: 3px;
 }
 p{
     font-size: 14px;
