@@ -8,17 +8,21 @@
     display: flex;
     margin: auto;
     text-align: center;
-    height: 500px;
-    width: 70vh;
+    /* height: 500px; */
+    height: 350px;
+    width: 90%;
     background-color: rgb(126, 124, 124);
     color: rgb(0, 0, 0);
     box-shadow: 10px 10px rgba(15, 21, 182, 0.118);
     border-radius: 10px;
+    justify-content: center;
+    align-items: flex-start;
 
 }
 #divtext2{
-    margin-top: 10px;
+    margin: auto;
     display: block;
+    background-color: rgba(0, 0, 255, 0.849);
 }
 img{
     height:220px ;
@@ -27,4 +31,9 @@ img{
 }
 p{
     font-size: 14px;
+}
+#texto{
+
+    width: 250px;
+    margin: auto;
 }
