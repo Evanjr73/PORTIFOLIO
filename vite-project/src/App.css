@@ -6,7 +6,16 @@
 #app{
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to left, blue, orange, red);
+    background-image: linear-gradient(to left, rgba(40, 113, 54, 0.634), rgb(60, 146, 36), rgb(46, 166, 37));
     background-size: 500% 100%;
     animation: degrade-animeado 5s infinite alternate-reverse;
+}
+@keyframes degrade-animeado{
+    0%{
+        background-position-x: 0% ;
+
+    }
+    100%{
+        background-position-x: 100% ;
+    }
 }
