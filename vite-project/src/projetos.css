@@ -14,15 +14,18 @@
     display: block;
 }
 #containerProjetos1{
+    display: inline-flex;
+    background-color: blue;
+    /* justify-content: flex-start; */
+    flex-direction: column;
     
-    justify-content: space-around;
-    /* flex-direction: column;
-    justify-items: center; */
-    margin-top: 100px;
-    height: auto;
-    width: auto;
+
+    /* justify-items: center; */
+    /* margin-top: 100px; */
+    height: 100%;
+    width: 100%;
     
-    margin: auto;
+    /* margin: auto; */
 } 
 .projetos{
     width: 250px;
@@ -32,7 +35,7 @@
 }
 .divprojetos{
     display: flex;
-    text-align: center;
+    /* text-align: center; */
     padding: 10px 6px 3px 3px;
     background-color: rgb(99, 101, 101);
     height: 210px;
