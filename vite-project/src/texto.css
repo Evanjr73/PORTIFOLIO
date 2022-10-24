@@ -16,6 +16,7 @@
     box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.649);
     border-radius: 10px;
     align-items: flex-start;
+    border: solid;
     
     
 
@@ -39,13 +40,14 @@ p{
 #texto{
     box-shadow: 15px 10px 7px  rgba(0, 0, 0, 0.249);
     width: 250px;
-    margin: 50px  5%  30px  40px ;
+    margin: 20px  5%  30px  20px ;
+    /* border: solid; */
 }
 #divtext3{
     display: flex;
     height: 350px;
     width: 650px;
-    margin-left: 10%;
+    margin-left: 1%;
     margin-top: 20px;
     
     
