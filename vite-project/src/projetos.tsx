@@ -25,6 +25,7 @@ export function Projetos(){
             
             <div className='divprojetos'>
                 <img src={img} alt="" className='projetos'/> 
+                
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum hic inventore excepturi rem, quia soluta alias quis perspiciatis dolorum accusantium quibusdam, recusandae nam doloribus. Voluptatibus possimus repellendus atque dolorem harum.</p>
             
             </div>
