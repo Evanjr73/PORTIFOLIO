@@ -55,10 +55,16 @@ export function Projetos(){
                 <img src={img6} alt="" className='projetos'/>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis omnis quidem cupiditate autem ullam voluptatem nesciunt fuga debitis quod nobis explicabo necessitatibus soluta fugiat sit veritatis, sunt, earum atque porro.</p>
             </div>
-            <div  className='divprojetos'>
-                <img src={img7} alt="" className='projetos'/>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis omnis quidem cupiditate autem ullam voluptatem nesciunt fuga debitis quod nobis explicabo necessitatibus soluta fugiat sit veritatis, sunt, earum atque porro.</p>
-            </div>
+            <a href="https://github.com/Evanjr73/POKEMON"  target="_blank">
+                <div  className='divprojetos'>
+                    <img src={img7} alt="" className='projetos'/>
+                    <div className='textoDoProjeto'>
+                        <h2>PROJETO POKEMON</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                    </div>
+                    
+                </div>
+            </a>
             
             
             
