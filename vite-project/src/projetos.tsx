@@ -31,6 +31,18 @@ export function Projetos(){
                 </div>
             </a>
 
+            <a href="https://github.com/Evanjr73/projetos/tree/main/contador"  target="_blank">
+                <div  className='divprojetos'>
+                    <img src={img1} alt="" className='projetos'/>
+                    <div className='textoDoProjeto'>
+                        <h2>PROJETO POKEMON</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                    </div>
+                    
+                </div>
+            </a>
+
+
 
 
 
