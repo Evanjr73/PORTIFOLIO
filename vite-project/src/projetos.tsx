@@ -99,7 +99,7 @@ export function Projetos(){
                     <img src={img6} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
                         <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT , TOTALMENTE ATUALIZADO COM HORARIO LOCAL</p>
                     </div>
                     
                 </div>
