@@ -75,7 +75,8 @@ export function Projetos(){
                     <img src={img4} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
                         <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                        <p>CLONE DA PRIMEIRA PAGINA DA DISNEY+</p><br />
+                        <p>PORJETO CRIADO COM HTML , CSS  E JAVASCRIPT</p>
                     </div>
                     
                 </div>
@@ -87,8 +88,8 @@ export function Projetos(){
                 <div  className='divprojetos'>
                     <img src={img5} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
-                        <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                        <h2>PROJETO CALCULADORA</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS E JAVASCRIPT </p>
                     </div>
                     
                 </div>
@@ -98,8 +99,8 @@ export function Projetos(){
                 <div  className='divprojetos'>
                     <img src={img6} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
-                        <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT , TOTALMENTE ATUALIZADO COM HORARIO LOCAL</p>
+                        <h2>PROJETO RELOGIO</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS E JAVASCRIPT , TOTALMENTE ATUALIZADO COM HORARIO LOCAL</p>
                     </div>
                     
                 </div>
