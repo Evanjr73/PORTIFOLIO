@@ -24,8 +24,8 @@ export function Projetos(){
                 <div  className='divprojetos'>
                     <img src={img} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
-                        <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                        <h2>PROJETO CONTADOR</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT </p>
                     </div>
                     
                 </div>
@@ -35,8 +35,8 @@ export function Projetos(){
                 <div  className='divprojetos'>
                     <img src={img1} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
-                        <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                        <h2>PROJETO CASAS DE HOGUARDS</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT </p>
                     </div>
                     
                 </div>
@@ -50,8 +50,8 @@ export function Projetos(){
                 <div  className='divprojetos'>
                     <img src={img2} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
-                        <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                        <h2>PROJETO HOME SITE DE ROUPAS</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT </p>
                     </div>
                     
                 </div>
@@ -63,8 +63,8 @@ export function Projetos(){
                 <div  className='divprojetos'>
                     <img src={img3} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
-                        <h2>PROJETO POKEMON</h2> <br />
-                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT CONSUMINDO UMA API DE TERCEIROS</p>
+                        <h2>PROJETO HOME SITE DE ROUPAS</h2> <br />
+                        <p>PORJETO CRIADO COM HTML , CSS JAVASCRIPT </p>
                     </div>
                     
                 </div>
@@ -74,7 +74,7 @@ export function Projetos(){
                 <div  className='divprojetos'>
                     <img src={img4} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
-                        <h2>PROJETO POKEMON</h2> <br />
+                        <h2>PROJETO DSINEY+</h2> <br />
                         <p>CLONE DA PRIMEIRA PAGINA DA DISNEY+</p><br />
                         <p>PORJETO CRIADO COM HTML , CSS  E JAVASCRIPT</p>
                     </div>
