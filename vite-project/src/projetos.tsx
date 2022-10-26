@@ -31,7 +31,7 @@ export function Projetos(){
                 </div>
             </a>
 
-            <a href="https://github.com/Evanjr73/projetos/tree/main/contador"  target="_blank">
+            <a href="https://github.com/Evanjr73/projetos/tree/main/casadehoguards"  target="_blank">
                 <div  className='divprojetos'>
                     <img src={img1} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
