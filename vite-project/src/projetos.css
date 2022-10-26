@@ -15,7 +15,7 @@
 }
 #containerProjetos1{
     display: flex;
-    background-color: blue;
+    /* background-color: blue; */
     /* justify-content: flex-start; */
     flex-direction: column-reverse;
     align-items: center;
@@ -44,7 +44,7 @@
     width: 450px;
     margin-top: 15px;
     border-radius: 10px;
-    box-shadow: 2px 4px rgba(0, 0, 0, 0.112);
+    box-shadow: 12px 5px rgba(0, 0, 0, 0.112);
     border: solid;
 }
 .divprojetos:hover{
@@ -53,8 +53,8 @@
     /* text-align: center; */
     padding: 15px 11px 8px 8px;
     background-color: rgb(99, 101, 101);
-    height: 230px;
-    width: 460px;
+    height: 210px;
+    width: 440px;
     margin-top: 15px;
     border-radius: 10px;
     box-shadow: 7px 7px rgba(0, 0, 0, 0.112);
