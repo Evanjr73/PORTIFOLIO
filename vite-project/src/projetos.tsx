@@ -20,7 +20,7 @@ export function Projetos(){
             <h1 id='projetosh1'>projetos</h1>
         </div>
         <div id='containerProjetos1'>
-            <a href="https://github.com/Evanjr73/POKEMON"  target="_blank">
+            <a href="https://github.com/Evanjr73/projetos/tree/main/contador"  target="_blank">
                 <div  className='divprojetos'>
                     <img src={img} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
@@ -34,7 +34,7 @@ export function Projetos(){
 
 
 
-            <a href="https://github.com/Evanjr73/POKEMON"  target="_blank">
+            <a href="https://github.com/Evanjr73/projetos/blob/main/summer/index.html"  target="_blank">
                 <div  className='divprojetos'>
                     <img src={img2} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
@@ -47,7 +47,7 @@ export function Projetos(){
 
 
 
-            <a href="https://github.com/Evanjr73/POKEMON"  target="_blank">
+            <a href="https://github.com/Evanjr73/projetos/blob/main/summer/comeco.html"  target="_blank">
                 <div  className='divprojetos'>
                     <img src={img3} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
@@ -58,7 +58,7 @@ export function Projetos(){
                 </div>
             </a>
 
-            <a href="https://github.com/Evanjr73/POKEMON"  target="_blank">
+            <a href="https://github.com/Evanjr73/projetos/tree/main/DISNEY%2B%2B"  target="_blank">
                 <div  className='divprojetos'>
                     <img src={img4} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
@@ -71,7 +71,7 @@ export function Projetos(){
 
 
 
-            <a href="https://github.com/Evanjr73/POKEMON"  target="_blank">
+            <a href="https://github.com/Evanjr73/projetos/tree/main/calculadora3"  target="_blank">
                 <div  className='divprojetos'>
                     <img src={img5} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
@@ -82,7 +82,7 @@ export function Projetos(){
                 </div>
             </a>
             
-            <a href="https://github.com/Evanjr73/POKEMON"  target="_blank">
+            <a href="https://github.com/Evanjr73/projetos/tree/main/RELOGIO"  target="_blank">
                 <div  className='divprojetos'>
                     <img src={img6} alt="" className='projetos'/>
                     <div className='textoDoProjeto'>
